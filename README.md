@@ -13,3 +13,5 @@
 | | APICRAFT: Fuzz Driver Generation for Closed-Source SDK Libraries,2019||USENIX|
 | | RULF:Rust Library Fuzzing via API Dependency Graph Traversal,2021|✅|https://dl.ccf.org.cn/video/videoDetail.html?_ack=1&id=5972969062565888|ASE|
 | |UTOPIA: Automatic Generation of Fuzz Driver using Unit Tests,2023||S&P|
+
+浅谈API模糊测试 http://www.hackdig.com/06/hack-701579.htm
